@@ -14,6 +14,8 @@
 #         print("Invalid Choice")
 
 
+#TODO: Modify the program so the user can specify how many dice they want to roll.
+
 
 # import random
 
@@ -35,6 +37,7 @@
 #         print("Invalid choice, please select 'Y' or 'N'.")
 
 
+#TODO:Add a feature that keeps track of how many times the user has rolled the dice during the session. This will require a counter that increments each time the dice are rolled.
 
 import random
 
