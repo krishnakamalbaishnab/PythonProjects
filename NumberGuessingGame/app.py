@@ -31,4 +31,4 @@ while True:
             print("Congratulations, You guessed the number!")
             break  # Exit the loop when the correct number is guessed
     except ValueError:
-        print("Please Enter a valid Number!")
+        print("Please Enter a valid Number! And Try Again")
